@@ -3,12 +3,12 @@
     <channel>
         <title>BucketView</title>
         <item>
-            <title>0.102</title>
-            <pubDate>Sat, 11 Oct 2025 18:51:35 +0200</pubDate>
-            <sparkle:version>20251011</sparkle:version>
-            <sparkle:shortVersionString>0.102</sparkle:shortVersionString>
+            <title>0.200</title>
+            <pubDate>Wed, 15 Oct 2025 18:21:21 +0200</pubDate>
+            <sparkle:version>20251014</sparkle:version>
+            <sparkle:shortVersionString>0.200</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kicsipixel/BucketView/releases/download/102/BucketView.dmg" length="4313984" type="application/octet-stream" sparkle:edSignature="y39pQc2gm/WNb3re+NkK/AujYzbAUXbW1+ZO5FF9aSbNQMQeLhqEmAhgHll/l/Oin/eTkWEOffA5K6pDZykyCg=="/>
+            <enclosure url="https://github.com/kicsipixel/BucketView/releases/download/200/BucketView.dmg" length="4775788" type="application/octet-stream" sparkle:edSignature="ARUor+4aKBL7D2B6u8YQXiC/Epi7aUQA+gn9WtV++lBBXG1RHR3C6It4YTUIUoYGu7utcC2RUTFf/DNkIxxIAA=="/>
         </item>
     </channel>
 </rss>
